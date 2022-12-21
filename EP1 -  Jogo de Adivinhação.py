@@ -1,6 +1,5 @@
 """
   MAC2166 - ESCOLA POLITÉCNIC DA USP
-
 """
 
 # sorteia um número inteiro no intervalo [1,20]
