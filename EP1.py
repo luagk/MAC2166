@@ -1,9 +1,9 @@
 """
   MAC2166 - ESCOLA POLITÉCNIC DA USP
 
-  """
+"""
 
-# orteia um número inteiro no intervalo [1,20]
+# sorteia um número inteiro no intervalo [1,20]
 import random
 semente = int(input("Digite a semente do sorteio: "))
 random.seed(semente)
