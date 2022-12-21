@@ -9,8 +9,6 @@ semente = int(input("Digite a semente do sorteio: "))
 random.seed(semente)
 numero_sorteado = random.randint(1,20)
 
-
-
 print('Escolhi um inteiro entre 1 e 20. Adivinhe-o!')
 tentativa = 0
 acertou = 0
